@@ -1,6 +1,10 @@
 # Fitness Assistant
 This is user friendly fitness assistant, which is RAG applications built as a part of LLM Zoomcamp
 
+<p align="center">
+  <img src="anime.png">
+</p>
+
 ## Project overview
 
 The Fitness Assistant is a RAG application designed to assist
